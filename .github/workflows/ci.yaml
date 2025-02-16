@@ -1,4 +1,4 @@
-name: app-go-continuous-integration-workflows
+name: app-go-continuous-integration-workflow
 on: 
   pull_request:
     branches: 
